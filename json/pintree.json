@@ -615,20 +615,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1700915808245,
-        "title": "JavaSctipt",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1715051028860,
-            "title": "雄辩的JavaScript --- Eloquent JavaScript",
-            "icon": "https://logo.clearbit.com/eloquentjavascript.net",
-            "url": "https://eloquentjavascript.net/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1700915840776,
         "title": "React",
         "children": [
@@ -3331,97 +3317,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1706354736728,
-        "title": "Solidity",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1706354721216,
-            "title": "Solidity by Example | 0.8.20",
-            "icon": "https://logo.clearbit.com/solidity-by-example.org",
-            "url": "https://solidity-by-example.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1706354842838,
-            "title": "lllu_23的个人空间-lllu_23个人主页-哔哩哔哩视频",
-            "icon": "https://logo.clearbit.com/space.bilibili.com",
-            "url": "https://space.bilibili.com/3493288753498847"
-          },
-          {
-            "type": "link",
-            "addDate": 1706355802418,
-            "title": "Kaso区块链的个人空间-Kaso区块链个人主页-哔哩哔哩视频",
-            "icon": "https://logo.clearbit.com/space.bilibili.com",
-            "url": "https://space.bilibili.com/18879239"
-          },
-          {
-            "type": "link",
-            "addDate": 1706356165093,
-            "title": "web3 科学家入门 7.1qna3签到_哔哩哔哩_bilibili",
-            "icon": "https://logo.clearbit.com/www.bilibili.com",
-            "url": "https://www.bilibili.com/video/BV1wG411r7DS/?spm_id_from=333.337.search-card.all.click&vd_source=fcf2d15b39ac3129b8daaff05d01da7b"
-          },
-          {
-            "type": "link",
-            "addDate": 1706360683646,
-            "title": "Hello from WTF Academy | WTF Academy",
-            "icon": "https://logo.clearbit.com/www.wtf.academy",
-            "url": "https://www.wtf.academy/"
-          },
-          {
-            "type": "link",
-            "addDate": 1708485013718,
-            "title": "space.bilibili.com/286084162",
-            "icon": "https://logo.clearbit.com/space.bilibili.com",
-            "url": "https://space.bilibili.com/286084162"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1715476991001,
-        "title": "solana",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1715477212248,
-            "title": "如何在 Solana 中编写您的第一个锚程序 - 第 1 部分 |快速节点 --- How to Write Your First Anchor Program in Solana - Part 1 | QuickNode",
-            "icon": "https://logo.clearbit.com/www.quicknode.com",
-            "url": "https://www.quicknode.com/guides/solana-development/anchor/how-to-write-your-first-anchor-program-in-solana-part-1"
-          },
-          {
-            "type": "link",
-            "addDate": 1715477346395,
-            "title": "solana论坛",
-            "icon": "https://logo.clearbit.com/solana.stackexchange.com",
-            "url": "https://solana.stackexchange.com/questions"
-          },
-          {
-            "type": "link",
-            "addDate": 1715477398789,
-            "title": "开发人员资源 |索拉纳 --- Developer Resources | Solana",
-            "icon": "https://logo.clearbit.com/solana.com",
-            "url": "https://solana.com/developers/resources"
-          },
-          {
-            "type": "link",
-            "addDate": 1715477412913,
-            "title": "Solana Playground | Solana IDE",
-            "icon": "https://logo.clearbit.com/beta.solpg.io",
-            "url": "https://beta.solpg.io/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715477513437,
-            "title": "开发人员指南 – Shyft.to --- Developer Guides – Shyft.to",
-            "icon": "https://logo.clearbit.com/blogs.shyft.to",
-            "url": "https://blogs.shyft.to/web3-solana-development/home"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1715674861904,
         "title": "全栈之路",
         "children": [
@@ -4418,6 +4313,48 @@
             "title": "CSS 提示：以简单的方式学习 CSS --- CSS Tip: Learn CSS the easy way",
             "icon": "https://logo.clearbit.com/css-tip.com",
             "url": "https://css-tip.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1715476991001,
+            "title": "solana",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715477212248,
+                "title": "如何在 Solana 中编写您的第一个锚程序 - 第 1 部分 |快速节点 --- How to Write Your First Anchor Program in Solana - Part 1 | QuickNode",
+                "icon": "https://logo.clearbit.com/www.quicknode.com",
+                "url": "https://www.quicknode.com/guides/solana-development/anchor/how-to-write-your-first-anchor-program-in-solana-part-1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715477346395,
+                "title": "solana论坛",
+                "icon": "https://logo.clearbit.com/solana.stackexchange.com",
+                "url": "https://solana.stackexchange.com/questions"
+              },
+              {
+                "type": "link",
+                "addDate": 1715477398789,
+                "title": "开发人员资源 |索拉纳 --- Developer Resources | Solana",
+                "icon": "https://logo.clearbit.com/solana.com",
+                "url": "https://solana.com/developers/resources"
+              },
+              {
+                "type": "link",
+                "addDate": 1715477412913,
+                "title": "Solana Playground | Solana IDE",
+                "icon": "https://logo.clearbit.com/beta.solpg.io",
+                "url": "https://beta.solpg.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715477513437,
+                "title": "开发人员指南 – Shyft.to --- Developer Guides – Shyft.to",
+                "icon": "https://logo.clearbit.com/blogs.shyft.to",
+                "url": "https://blogs.shyft.to/web3-solana-development/home"
+              }
+            ]
           }
         ]
       }
